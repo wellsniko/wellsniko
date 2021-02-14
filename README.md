@@ -1,16 +1,21 @@
-### Hi there 👋
+# Niko Wells
+![](https://img.shields.io/badge/CODE-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-React-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-PostSql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-AWS-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 
-<!--
-**wellsniko/wellsniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a software engineer based in San Francisco, CA, with a background in the commercial real estate finance. I'm currently seeking full-time employment opportunities. I'm committed to sharpening my skills as a full stack engineer, improving my current projects, starting new projects, and continuing my education in big data and machine learning concepts. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I value growth, responsibilty, & work that requires creative solutions. I hope work with a company that shares these values.
+
+- [LinkedIn](https://www.linkedin.com/in/niko-wells-16134aa0/)
+- [AngelList](https://angel.co/u/niko-wells)
+
+
+## My Stats
+[![Niko's github stats](https://github-readme-stats.vercel.app/api?username=wellsniko&theme=dark&show_icons=true)](https://github.com/wellsniko/github-readme-stats)
