@@ -11,7 +11,7 @@
 
 I'm a software engineer based in San Francisco, CA, with a background in the commercial real estate finance. I'm currently seeking full-time employment opportunities. I'm committed to sharpening my skills as a full stack engineer, improving my current projects, starting new projects, and continuing my education in big data and machine learning concepts. 
 
-I value growth, responsibilty, & work that requires creative solutions. I hope work with a company that shares these values.
+I value growth, responsibility, & work that requires creative solutions. I hope work with a company that shares these values.
 
 - [LinkedIn](https://www.linkedin.com/in/niko-wells-16134aa0/)
 - [AngelList](https://angel.co/u/niko-wells)
