@@ -691,7 +691,7 @@ ul.portfolio-image li .image-bg {
 ul.portfolio-image li .desc{
   position: absolute;
   z-index: 1;
-  top: 45%;
+  top: 20%;
   left: 0;
   display: table-cell;
   right: 0;
@@ -799,6 +799,16 @@ ul.portfolio-image li .desc{
 
 .education-logo {
   height: 80px;
+  float: right;
+}
+
+.employment-logo {
+  height: 63px;
+  float: right;
+}
+
+.neeknacks-logo {
+  height: 22px;
   float: right;
 }
 
@@ -1325,3 +1335,18 @@ ul.portfolio-image li .desc{
 }
 .skillst .count-bar .count { background-color: #818181;}
 .skillst .count-bar .count span:after { border-top: 4px solid #818181;}
+
+
+#project-links {
+  position: absolute;
+  bottom: 10%;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-weight: 700;
+  font-size: 16px;
+  /* display: flex; 
+  flex-direction: row; */
+  /* justify-content: space-between; */
+}
