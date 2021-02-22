@@ -651,7 +651,7 @@ ul.portfolio-image li img {
   height: 100%;
   left: 0;
   top: 0;
-  -webkit-filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%); */
   transition: filter, transform, 0.5s;
 }
 ul.portfolio-image li .decription-wrap {
