@@ -17,7 +17,7 @@ TABLE OF CONTENTS:
  7.b) service
  7.c) experience
  7.d) testimonial
- 7.e) blog
+ 7.e) product
  7.f) about
  7.g) contact
  7.h) footer
@@ -525,7 +525,7 @@ p {
 
 /*----------------------------------------- 6) Hero --------------------------------------------------*/
 #home {
-  background: url('../images/bg-7.jpg');
+  background: url('../my_images/croatia2.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -858,7 +858,7 @@ ul.portfolio-image li .desc{
   z-index: 1;
   position: relative;
 }
-/*-------------- e. blog -------------*/
+/*-------------- e. product -------------*/
 .grid {margin-top: 60px;}
 .grid:after {
   content: '';
@@ -887,8 +887,9 @@ ul.portfolio-image li .desc{
   margin: 0 auto;
 }
 .grid-item .wrap-article .img-circle {
-  width: 133px;
+  /* width: 133px; */
   height: 133px;
+  border-radius: 0;
 }
 .grid-item .wrap-article .fancy {
   line-height: 0.5;
@@ -939,7 +940,7 @@ ul.portfolio-image li .desc{
   left: 0;
   margin-top: 30px;
 }
-.grid-item .wrap-article .content-blog {
+.grid-item .wrap-article .content-product {
   margin-top: 30px;
   padding: 0 10px 0 10px;
   text-align: justify;
