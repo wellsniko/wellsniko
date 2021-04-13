@@ -9,8 +9,6 @@
 ![](https://img.shields.io/badge/TOOLS-AWS-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-Web3-informational?style=flat&logo=Web3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TOOLS-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TOOLS-Web3-informational?style=flat&logo=Web3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
 
 
