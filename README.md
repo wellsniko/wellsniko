@@ -1,8 +1,8 @@
 # Niko Wells
 ![](https://img.shields.io/badge/CODE-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-React-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TOOLS-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-PostSql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
